@@ -1,5 +1,5 @@
 {
-  "name": "ts-template-repo",
+  "name": "@merry-solutions/debounce",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/index.js",
@@ -21,7 +21,10 @@
     ]
   },
   "bin": "",
-  "keywords": [],
+  "keywords": [
+    "debounce",
+    "typescript"
+  ],
   "author": {
     "name": "Volodymyr Yepishev",
     "email": "yepishevv@gmail.com"
@@ -29,12 +32,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Bwca/ts-template-repo.git"
+    "url": "git+https://github.com/Bwca/merry-solutions__debounce.git"
   },
   "bugs": {
-    "url": "https://github.com/Bwca/ts-template-repo/issues"
+    "url": "https://github.com/Bwca/merry-solutions__debounce.git/issues"
   },
-  "homepage": "https://github.com/Bwca/ts-template-repo#readme",
+  "homepage": "https://github.com/Bwca/merry-solutions__debounce.git#readme",
   "devDependencies": {
     "@types/jest": "^25.2.2",
     "@typescript-eslint/eslint-plugin": "^2.34.0",
