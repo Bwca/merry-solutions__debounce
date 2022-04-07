@@ -1,6 +1,6 @@
 {
   "name": "@merry-solutions/debounce",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple debounce factory function that creates an async version of a passed function which executes after a given delay. Built with typescript and promises.",
   "main": "./dist/index.js",
   "files": [
@@ -27,7 +27,7 @@
   ],
   "author": {
     "name": "Volodymyr Yepishev",
-    "email": "yepishevv@gmail.com"
+    "email": "i.m.bwca@gmail.com"
   },
   "license": "MIT",
   "repository": {

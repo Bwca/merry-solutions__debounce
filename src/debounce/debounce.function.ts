@@ -10,7 +10,7 @@ export function debounce<F extends FunctionWithArguments>(fn: F, ms: number): De
       }
 
       timer = setTimeout(() => {
-        resolve(fn(args));
+        resolve(fn(...args as unknown[]));
       }, ms);
     });
 
